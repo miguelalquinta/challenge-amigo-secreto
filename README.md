@@ -17,3 +17,5 @@ Permite ingresar nombres, validarlos y realizar un sorteo aleatorio mostrando el
 - **CSS3** – estilos y diseño responsivo.
 - **JavaScript (Vanilla JS)** – lógica de validación y sorteo.
 
+### Vista previa
+![Demo de la aplicación](assets/demo.gif)
