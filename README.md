@@ -18,4 +18,4 @@ Permite ingresar nombres, validarlos y realizar un sorteo aleatorio mostrando el
 - **JavaScript (Vanilla JS)** – lógica de validación y sorteo.
 
 ### Vista previa
-![Demo de la aplicación](assets/demo.gif)
+![Demo de la aplicación](assets/Demo.gif)
