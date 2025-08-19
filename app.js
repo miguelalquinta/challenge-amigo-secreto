@@ -4,7 +4,7 @@ let nuevoElemento = document.createElement('li');
 let largoLista="";
 let numeroAmigoSecreto="";
 
-//Al presionar enter ejecuta lo que deberia realizar al presionar el boton añadir
+//Al presionar enter ejecuta lo que deberia realizar al presionar el boton añadir.
 document.getElementById('amigo').addEventListener('keydown', function (e) {
     validarFinSorteo();
     if (e.key === 'Enter') {
